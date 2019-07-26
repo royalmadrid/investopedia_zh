@@ -21,3 +21,6 @@
 * :ref:`modindex`
 * :ref:`search`
 
+
+.. raw:: html
+   :file: _static/comments.html

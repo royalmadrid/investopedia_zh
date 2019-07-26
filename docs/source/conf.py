@@ -46,7 +46,7 @@ language = 'zh_CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_build']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -57,7 +57,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 
 #options for disqus
-disqus_shortname = 'investopedia'
+# disqus_shortname = 'investopedia'
 
 
 
@@ -69,3 +69,6 @@ html_static_path = ['_static']
 master_doc = 'index'
 
 mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML'
+
+# disqus_path = 'https://github.com/Robpol86/sphinxcontrib-disqus.git'
+disqus_shortname = 'kzheng'

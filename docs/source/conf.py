@@ -30,7 +30,10 @@ release = '0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.mathjax', 'sphinxcontrib.disqus'
+# extensions = ['sphinx.ext.autodoc', 'sphinx.ext.mathjax', 'sphinxcontrib.disqus'
+# ]
+
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.mathjax'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -46,7 +49,7 @@ language = 'zh_CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build']
+exclude_patterns = [ ]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -57,7 +60,7 @@ exclude_patterns = ['_build']
 html_theme = 'sphinx_rtd_theme'
 
 #options for disqus
-# disqus_shortname = 'investopedia'
+disqus_shortname = 'kzheng'
 
 
 
@@ -71,4 +74,3 @@ master_doc = 'index'
 mathjax_path = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML'
 
 # disqus_path = 'https://github.com/Robpol86/sphinxcontrib-disqus.git'
-disqus_shortname = 'kzheng'

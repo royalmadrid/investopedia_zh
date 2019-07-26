@@ -21,5 +21,3 @@
 * :ref:`modindex`
 * :ref:`search`
 
-
-.. disqus::

@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎浏览投资百科文档！
+投资百科文档
 ===========================================
 
 .. toctree::
@@ -24,3 +24,6 @@
 
 .. raw:: html
    :file: _static/comments.html
+
+.. raw:: html
+   :file: _static/addthis.html

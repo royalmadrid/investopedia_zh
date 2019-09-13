@@ -163,7 +163,7 @@
 
         风险/回报：看涨期权的潜在损失限于已支付的保费。潜在利润无限，期权收益随标的资产价格一起上涨，直至到期，理论上收益没有限制。
 
-        .. figure:: _static/Figure5-1.png
+        .. figure:: /_static/Figure5-1.png
                 :align: center
                 :figwidth: 500px
 
@@ -179,7 +179,7 @@
 
         **风险/奖励** 潜在损失限于支付的保费。基础价格不能低于零，头寸的最大利润受到限制，与长期看涨期权一样，看跌期权利加大了交易者的回报。
 
-        .. figure:: _static/Figure5-2.png
+        .. figure:: /_static/Figure5-2.png
                 :align: center
                 :figwidth: 500px
 
@@ -199,7 +199,7 @@
 
         **风险/奖励**：如果股票价格在到期前上涨超过执行价格，可以行使短期看涨期权，交易者以期权的执行价格交割标的股票，即使低于市场价格。 持保看涨期权策略以卖出看涨期权时收到的保金形式，以交换这种风险，得到有限的下行保护。
 
-        .. figure:: _static/Figure5-3.png
+        .. figure:: /_static/Figure5-3.png
                 :align: center
                 :figwidth: 500px
 

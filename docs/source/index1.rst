@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 
-怎样充满自信地去投资
+怎样有信心去投资？
 -------------------------------
 
 .. include:: index1a.rst
@@ -14,13 +14,13 @@
    :numbered:
    :caption: Contents:
 
-   Chapter11
-   Chapter12
-   Chapter13
-   Chapter14 
-   Chapter15
-   Chapter16
-   Chapter17
+   invest/Chapter11
+   invest/Chapter12
+   invest/Chapter13
+   invest/Chapter14 
+   invest/Chapter15
+   invest/Chapter16
+   invest/Chapter17
 
 
 
